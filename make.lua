@@ -4,7 +4,7 @@ local env = {
   license = "MIT",
   dependencies = {
     "lua >= 5.1",
-    "santoku >= 0.0.305-1",
+    "santoku >= 0.0.310-1",
   },
 }
 
